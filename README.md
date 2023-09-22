@@ -5,6 +5,4 @@
 ![codrwars](https://www.codewars.com/users/rsschool_c9af20f58c35c696/badges/micro) 
 
 <!--START_SECTION:SHOW_TITLE-->
-<!--START_SECTION:LANG_COUNT-->
-<!--END_SECTION:LANG_COUNT-->
 <!--END_SECTION:SHOW_TITLE-->
