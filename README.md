@@ -5,10 +5,14 @@
 ![codrwars](https://www.codewars.com/users/rsschool_c9af20f58c35c696/badges/micro) 
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
+```txt
+From: 18 September 2023 - To: 22 September 2023
 
-<!--START_SECTION:waka-->
-<!--START_SECTION:SHOW_TITLE-->
-<!--END_SECTION:SHOW_TITLE-->
+Total Time: 5 hrs 19 mins
+
+CSS    4 hrs 12 mins   ███████████████████▓░░░░░   79.07 %
+HTML   1 hr 6 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.93 %
+```
+
 <!--END_SECTION:waka-->
