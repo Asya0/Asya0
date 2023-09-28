@@ -7,12 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2023 - To: 25 September 2023
+From: 18 September 2023 - To: 26 September 2023
 
-Total Time: 11 hrs 1 min
+Total Time: 13 hrs 17 mins
 
-CSS    9 hrs 24 mins   █████████████████████▒░░░   85.27 %
-HTML   1 hr 37 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
+CSS          10 hrs 24 mins  ███████████████████▓░░░░░   78.34 %
+HTML         2 hrs 50 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.39 %
+JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
