@@ -7,16 +7,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2023 - To: 20 October 2023
+From: 18 September 2023 - To: 21 October 2023
 
-Total Time: 38 hrs 30 mins
+Total Time: 40 hrs 13 mins
 
-JavaScript   18 hrs 6 mins   ███████████▓░░░░░░░░░░░░░   46.89 %
-CSS          10 hrs 49 mins  ███████░░░░░░░░░░░░░░░░░░   28.04 %
-HTML         5 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
-SCSS         4 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
-JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-Other        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+JavaScript   19 hrs 42 mins  ████████████▒░░░░░░░░░░░░   48.87 %
+CSS          10 hrs 49 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.83 %
+HTML         5 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
+SCSS         4 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
+JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Other        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 TSConfig     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
