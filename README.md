@@ -6,16 +6,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2023 - To: 15 May 2024
+From: 18 September 2023 - To: 16 May 2024
 
-Total Time: 90 hrs 53 mins
+Total Time: 91 hrs 56 mins
 
-JavaScript       37 hrs 7 mins   ██████████▒░░░░░░░░░░░░░░   40.67 %
-CSS              24 hrs 51 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.24 %
-HTML             12 hrs 57 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
-TypeScript       7 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
-SCSS             6 hrs 50 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-JSON             1 hr 13 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+JavaScript       37 hrs 8 mins   ██████████░░░░░░░░░░░░░░░   40.23 %
+CSS              24 hrs 51 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.93 %
+HTML             12 hrs 57 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
+TypeScript       8 hrs 24 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
+SCSS             6 hrs 50 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+JSON             1 hr 13 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 Other            23 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 Bash             7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 Prisma           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
