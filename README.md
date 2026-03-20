@@ -6,19 +6,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2023 - To: 17 March 2026
+From: 18 September 2023 - To: 18 March 2026
 
-Total Time: 296 hrs 42 mins
+Total Time: 298 hrs 59 mins
 
-JavaScript       97 hrs 40 mins        ████████▒░░░░░░░░░░░░░░░░   32.76 %
-TypeScript       94 hrs 59 mins        ████████░░░░░░░░░░░░░░░░░   31.86 %
-CSS              40 hrs 14 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
-SCSS             26 hrs 16 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
-HTML             25 hrs 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
-JSON             3 hrs 22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+JavaScript       97 hrs 40 mins        ████████░░░░░░░░░░░░░░░░░   32.51 %
+TypeScript       95 hrs 46 mins        ████████░░░░░░░░░░░░░░░░░   31.87 %
+CSS              40 hrs 14 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
+SCSS             27 hrs 47 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
+HTML             25 hrs 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+JSON             3 hrs 22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 Stylus           3 hrs 12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-PHP              2 hrs 4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-Other            1 hr 27 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+PHP              2 hrs 4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Other            1 hr 27 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 Pug              1 hr 16 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
